@@ -1,0 +1,2 @@
+# Marketplace / Directory
+Prioritize listing quality, category/location taxonomy, thin/duplicate listings, faceted indexation, entity/profile trust, UGC moderation signals, internal discovery and programmatic SEO quality thresholds.

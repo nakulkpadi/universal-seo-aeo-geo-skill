@@ -1,0 +1,2 @@
+# Education
+Prioritize course/program pages, outcomes with evidence, faculty/instructor trust, curriculum, prerequisites, costs where applicable, Course schema, informational clusters and enrollment conversion.

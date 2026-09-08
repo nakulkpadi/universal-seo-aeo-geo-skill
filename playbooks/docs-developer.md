@@ -1,0 +1,2 @@
+# Documentation / Developer
+Prioritize crawlable docs, versioning, canonical strategy, API/reference structure, code-example accuracy, changelog freshness, search/navigation, developer entity signals and answer extraction.

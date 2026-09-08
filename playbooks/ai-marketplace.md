@@ -1,0 +1,2 @@
+# AI / Prompt Marketplace
+Prioritize model/version freshness, tested date, creator identity, example output/evidence, prompt/listing uniqueness, categories, thin pages, activation/use/save metrics and lifecycle classification.

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Universal SEO · AEO · GEO Skill"
+version: 2.0.0
+date-released: 2026-09-08
+authors:
+  - family-names: "Kapdi"
+    given-names: "Nakul"
+license: MIT
+repository-code: "https://github.com/nakulkpadi/universal-seo-aeo-geo-skill"

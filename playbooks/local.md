@@ -1,0 +1,2 @@
+# Local / Service Business
+Prioritize service + location architecture, NAP consistency, GBP/reviews/citations inputs, LocalBusiness schema where valid, local proof, service-area duplication risk and lead conversion.

@@ -1,0 +1,2 @@
+# SaaS
+Prioritize homepage/product/use-case/integration/pricing/comparison/docs architecture, branded and non-branded demand, software/entity schema where valid, proof, activation and comparison intent.

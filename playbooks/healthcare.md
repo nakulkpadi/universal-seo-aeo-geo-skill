@@ -1,0 +1,2 @@
+# Healthcare / YMYL
+Require strong authorship/review, medical sourcing, dates, scope/limitations, local/entity trust and careful claims. Never invent medical authority. Conversion recommendations must not weaken safety information.

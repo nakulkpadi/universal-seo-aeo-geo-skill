@@ -1,0 +1,7 @@
+{
+  "name": "web-growth-optimizer",
+  "version": "2.0-zero",
+  "runtime": "Python 3.9+ standard library",
+  "dependencies": [],
+  "files": "modular"
+}

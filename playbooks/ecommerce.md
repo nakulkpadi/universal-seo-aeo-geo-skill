@@ -1,0 +1,2 @@
+# Ecommerce
+Prioritize product/category architecture, faceted navigation/index control, variants, Product schema truthfulness, availability/price consistency, reviews, merchant trust, internal linking and conversion.

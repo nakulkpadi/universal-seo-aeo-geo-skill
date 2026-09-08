@@ -1,0 +1,2 @@
+# Publisher
+Prioritize topic clusters, author/editorial trust, freshness, Article schema, internal linking, content decay, news/article intent, source quality, ads/UX and index-bloat from tags/archives.
